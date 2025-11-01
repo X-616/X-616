@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, I'm X-616.👋
+♦
+Development, ideas, consulting, review and providing professional opinions. -🅧- ❻ ❶ ❻ (Product, Review, Next Step)
 
-<!--
-**X-616/X-616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PS5 - 🎮 - Game testing 💽 + 🔬, idea development-💻^∞^ᐃ , user experience review📊.
 
-Here are some ideas to get you started:
+Movies:🎬 Viewing experience😎 + review📊.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Technology: User experience, prototype, promotion and development.🔭🎮📱💻🔎📐
+
+▌│█║▌║▌║ Support and promotion of an idea💡 or product. ║▌║▌║█│▌-🅧- ❻ ❶ ❻
+
+~~<💚>~~ ^∞^_🅷🅾🅱🅱🅸🅴🆂: 𝚆𝚛𝚒𝚝𝚒𝚗𝚐 𝚜𝚌𝚛𝚒𝚙𝚝𝚜 + 𝐓𝐞𝐫𝐦𝐮𝐱,  𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆, 🅣🅞🅞🅛🅢,  ⓟⓢ⑤,  ᖇEᔕEᗩᖇᑕᕼ,  and more. ~~<💚>~~
+
+⫷⫷⫷ I like to write ideas for scripts, sometimes they become tools that I upload here on GitHub. Feel free to check them out. ⫸⫸⫸
+
+
+✍(◔◡◔) Over the years, I've learned to recognize tools here that have helped me a lot, tools that have helped me learn to write scripts from scratch, learn about Termux, and much more. Most of the tools and software that were collected in the database ← Index I created includes topics, they were very helpful to me. They are saved in my stars✨ You are welcome to check, I update all the time. (◔◡◔)✍
+
 -->
