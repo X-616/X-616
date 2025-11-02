@@ -14,6 +14,8 @@ Technology: User experience, prototype, promotion and development.🔭🎮📱�
 
 ⫷⫷⫷ I like to write ideas for scripts, sometimes they become tools that I upload here on GitHub. Feel free to check them out. ⫸⫸⫸
 
+♥- I'm new to writing scripts, so use it after checking that everything is OK.
+
 <img src="IMG_20251101_134409.png" width="400"/>
 
 <img src="Picsart_25-11-01_13-26-10-854.jpg" width="400"/>
