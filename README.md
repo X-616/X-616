@@ -1,6 +1,6 @@
 ## Hello, I'm X-616.👋
 
-#⚡Maximize Performance & UX
+⚡Maximize Performance & UX
 
 ✨ Expert B2B consultant for optimizing technological performance & app efficiency. 🚀 Provides comprehensive QA/QC services & sharp User Experience (UX) reviews for gaming & digital media products. 🎯 Transforms your development into a product with uncompromised, high-quality end-user experience.
 
