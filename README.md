@@ -17,9 +17,19 @@ Technology: User experience, prototype, promotion and development.🔭🎮📱�
 
 
 
-​### 👻 **'FROM THE SHADOWS' - Confidential Commitment** 🔐
+​# 👻 FROM THE SHADOWS - Confidential Commitment 🔐
 
-> **The service is provided 'from the shadows' with complete anonymity; every idea, development, and intellectual property belongs exclusively to the client.** We are committed to **total confidentiality**, secured and signed in a **strict Non-Disclosure Agreement (NDA)**.
+## **The service is provided 'from the shadows' with complete anonymity**
+
+**Every idea, development, and intellectual property belongs exclusively to the client.**
+
+### Our Commitments:
+
+✓ **Total Confidentiality** – guaranteed and signed  
+✓ **Strict Non-Disclosure Agreement (NDA)**  
+✓ **Complete Anonymity** – we operate behind the scenes
+
+> *The service is provided 'from the shadows' with complete anonymity. Every idea, development, and intellectual property belongs exclusively to the client. We are committed to total confidentiality, secured and signed in a strict Non-Disclosure Agreement (NDA).*
 
 
 
