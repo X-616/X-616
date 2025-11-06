@@ -23,15 +23,13 @@ Technology: User experience, prototype, promotion and development.🔭🎮📱�
 
 **Every idea, development, and intellectual property belongs exclusively to the client.**
 
-### Our Commitments:
+## Our Commitments:
 
 ✓ **Total Confidentiality** – guaranteed and signed  
 ✓ **Strict Non-Disclosure Agreement (NDA)**  
 ✓ **Complete Anonymity** – we operate behind the scenes
 
-> *The service is provided 'from the shadows' with complete anonymity. Every idea, development, and intellectual property belongs exclusively to the client. We are committed to total confidentiality, secured and signed in a strict Non-Disclosure Agreement (NDA).*
-
-
+#The service is provided 'from the shadows' with complete anonymity. Every idea, development, and intellectual property belongs exclusively to the client. We are committed to total confidentiality, secured and signed in a strict Non-Disclosure Agreement (NDA).
 
 ~~<💚>~~ ^∞^_🅷🅾🅱🅱🅸🅴🆂: 𝚆𝚛𝚒𝚝𝚒𝚗𝚐 𝚜𝚌𝚛𝚒𝚙𝚝𝚜 + 𝐓𝐞𝐫𝐦𝐮𝐱,  𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆, 🅣🅞🅞🅛🅢,  ⓟⓢ⑤,  ᖇEᔕEᗩᖇᑕᕼ,  and more. ~~<💚>~~
 
