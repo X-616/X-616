@@ -17,7 +17,7 @@ Technology: User experience, prototype, promotion and development.🔭🎮📱�
 
 
 
-​# 👻 FROM THE SHADOWS - Confidential Commitment 🔐
+​ 👻 FROM THE SHADOWS - Confidential Commitment 🔐
 
 ## **The service is provided 'from the shadows' with complete anonymity**
 
