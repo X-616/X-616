@@ -40,7 +40,9 @@ The service is provided 'from the shadows' with complete anonymity. Every idea, 
 
 
 
-**✍(◔◡◔) Over the years, I've learned to recognize tools here that have helped me a lot, tools that have helped me learn to write scripts from scratch, learn about Termux, and much more. Most of the tools and software that were collected in the database ← Index I created includes topics, they were very helpful to me. They are saved in my stars✨ You are welcome to check, I update all the time. (◔◡◔)✍
+ ## ✍(◔◡◔)
+
+ Over the years, I've learned to recognize tools here that have helped me a lot, tools that have helped me learn to write scripts from scratch, learn about Termux, and much more. Most of the tools and software that were collected in the database ← Index I created includes topics, they were very helpful to me. They are saved in my stars✨ You are welcome to check, I update all the time. (◔◡◔)✍
 
 <img src="Picsart_25-11-01_13-26-10-854.jpg" width="400"/>
 
