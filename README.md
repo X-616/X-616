@@ -36,7 +36,7 @@ The service is provided 'from the shadows' with complete anonymity. Every idea, 
 
 ⫷⫷⫷ I like to write ideas for scripts, sometimes they become tools that I upload here on GitHub. Feel free to check them out. ⫸⫸⫸ **↓↓**
 
-♥- I'm new to scripting. Check that everything is in order before you use it.
+## ♥- I'm new to scripting. Check that everything is in order before you use it.
 
 <img src="IMG_20251101_134409.png" width="400"/>
 
