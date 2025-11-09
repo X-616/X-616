@@ -17,7 +17,7 @@ Technology: User experience, prototype, promotion and development.🔭🎮📱�
 ▌│█║▌║▌║ Support and promotion of an idea💡 or product. ║▌║▌║█│▌-🅧- ❻ ❶ ❻
 
 
-​ 👻 FROM THE SHADOWS - Confidential Commitment 🔐
+​ ***👻 FROM THE SHADOWS - Confidential Commitment 🔐
 
 ## The service is provided 'from the shadows' with complete anonymity
 
@@ -31,11 +31,12 @@ Technology: User experience, prototype, promotion and development.🔭🎮📱�
 
 The service is provided 'from the shadows' with complete anonymity. Every idea, development, and intellectual property belongs exclusively to the client. We are committed to total confidentiality, secured and signed in a strict Non-Disclosure Agreement (NDA).
 
+
 ~~<💚>~~ ^∞^_🅷🅾🅱🅱🅸🅴🆂: 𝚆𝚛𝚒𝚝𝚒𝚗𝚐 𝚜𝚌𝚛𝚒𝚙𝚝𝚜 + 𝐓𝐞𝐫𝐦𝐮𝐱,  𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆, 🅣🅞🅞🅛🅢,  ⓟⓢ⑤,  ᖇEᔕEᗩᖇᑕᕼ,  and more. ~~<💚>~~
 
-⫷⫷⫷ I like to write ideas for scripts, sometimes they become tools that I upload here on GitHub. Feel free to check them out. ⫸⫸⫸
+⫷⫷⫷ I like to write ideas for scripts, sometimes they become tools that I upload here on GitHub. Feel free to check them out. ⫸⫸⫸ **↓↓
 
-♥- I'm new to writing scripts, so use it after checking that everything is OK.
+♥- I'm new to scripting. Check that everything is in order before you use it.
 
 <img src="IMG_20251101_134409.png" width="400"/>
 
