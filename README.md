@@ -9,12 +9,17 @@
 
 <img src="IMG_20251108_102829.png" width="400"/>
 
-
+  
 Development, ideas💡, consulting, review and providing professional opinions. -🅧- ❻ ❶ ❻ (Product, Review, 🅃🄾 🄰 🅆🄷🄾🄻🄴 🄽🄴🅆 🄻🄴🅅🄴🄻 )
 
 PS5 - 🎮 - Game testing 💽 + 🔬, idea development-💻^∞^ᐃ , user experience review📊.
 
+  
 Movies:🎬 Viewing experience😎 + review📊.
+
+
+<img src="IMG_20251108_102655.png" width="400"/>
+
 
 Technology: User experience, prototype, promotion and development.🔭🎮📱💻🔎📐
 
