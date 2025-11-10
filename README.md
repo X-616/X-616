@@ -27,6 +27,11 @@ Movies:🎬 Viewing experience😎 + review📊.
 
 Technology: User experience, prototype, promotion and development.🔭🎮📱💻🔎📐
 
+
+<img src="e8443c27-20cf-4eeb-8d5b-f3dd4c14d783.png" width="400"/>
+
+
+
 ▌│█║▌║▌║ Support and promotion of an idea💡 or product. ║▌║▌║█│▌-🅧- ❻ ❶ ❻
 __                              __
 
