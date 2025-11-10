@@ -11,6 +11,7 @@
 
   
 Development, ideas💡, consulting, review and providing professional opinions. -🅧- ❻ ❶ ❻ (Product, Review, 🅃🄾 🄰 🅆🄷🄾🄻🄴 🄽🄴🅆 🄻🄴🅅🄴🄻 )
+__                            __
 
 PS5 - 🎮 - Game testing 💽 + 🔬, idea development-💻^∞^ᐃ , user experience review📊.
 
