@@ -14,6 +14,9 @@ Development, ideas💡, consulting, review and providing professional opinions. 
 
 PS5 - 🎮 - Game testing 💽 + 🔬, idea development-💻^∞^ᐃ , user experience review📊.
 
+
+<img src="IMG_20251108_102629.png" width="400"/>
+
   
 Movies:🎬 Viewing experience😎 + review📊.
 
