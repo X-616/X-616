@@ -44,9 +44,7 @@ __                              __
  Our Commitments:
 
 
-<img src="IMG_25-11-20_08-08-36-420
-
-.png" width="400"/>
+<img src="images/IMG_25-11-20_08-08-36-420.png" width="400"/>
 
 
 ✓ **Total Confidentiality** – guaranteed and signed  
