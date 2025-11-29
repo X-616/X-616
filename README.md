@@ -1,6 +1,6 @@
 ## 𝔓𝔯𝔦𝔳𝔞𝔱𝔢 𝔊𝔢𝔫𝔢𝔯𝔞𝔩 ℭ𝔬𝔫𝔰𝔲𝔩𝔱𝔞𝔫𝔱 - 𝖃-616.👋
 🄿🄷🄴🄽🄾🄼🄴🄽🄾🄽
-## - 𝗫-𝟲𝟭𝟲. <img src="cDZJ17fbzWVle68VCB.gif" width="28"/>
+##  <img src="cDZJ17fbzWVle68VCB.gif" width="28"/>
 
 <img src="MP4_20251108_103137VLOG.gif" width="400"/>
 
