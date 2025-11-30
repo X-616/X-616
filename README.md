@@ -14,26 +14,24 @@
 <img src="IMG_20251108_102829.png" width="300"/>
 
   
-𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥,ⓘⓓⓔⓐⓢ💡, consulting, review and providing professional opinions. -🅧- ❻ ❶ ❻ (Product, Review, 🅃🄾 🄰 🅆🄷🄾🄻🄴 🄽🄴🅆 🄻🄴🅅🄴🄻 )
+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥,ⓘⓓⓔⓐⓢ💡, 𝕔𝕠𝕟𝕤𝕦𝕝𝕥𝕚𝕟𝕘, 𝕣𝕖𝕧𝕚𝕖𝕨 𝕒𝕟𝕕 𝕡𝕣𝕠𝕧𝕚𝕕𝕚𝕟𝕘 𝕡𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝 𝕠𝕡𝕚𝕟𝕚𝕠𝕟𝕤. -🅧- ❻ ❶ ❻ (Product, Review, 🅃🄾 🄰 🅆🄷🄾🄻🄴 🄽🄴🅆 🄻🄴🅅🄴🄻 )
 __                            __
-
-PS5 - 🎮 - Game testing 💽 + 🔬, idea development-💻^∞^ᐃ , user experience review📊.
 
 
 <img src="IMG_20251108_102629.png" width="300"/>
 
-  
-Movies:🎬 Viewing experience😎 + review📊.
-
-
+𝕻𝕾5 - 🎮 - 𝕲𝖆𝖒𝖊 𝖙𝖊𝖘𝖙𝖎𝖓𝖌 💽 + 🔬, 𝖎𝖉𝖊𝖆 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙-💻^∞^ᐃ , 𝖚𝖘𝖊𝖗 𝖊𝖝𝖕𝖊𝖗𝖎𝖊𝖓𝖈𝖊 𝖗𝖊𝖛𝖎𝖊𝖜📊.
+__                            __
+ 
 <img src="IMG_20251108_102655.png" width="300"/>
 
-
-Technology: User experience, prototype, promotion and development.🔭🎮📱💻🔎📐
-
+ℳℴ𝓋𝒾ℯ𝓈:🎬 𝒱𝒾ℯ𝓌𝒾𝓃ℊ ℯ𝓍𝓅ℯ𝓇𝒾ℯ𝓃𝒸ℯ😎 + 𝓇ℯ𝓋𝒾ℯ𝓌📊.
+__                            __
 
 <img src="e8443c27-20cf-4eeb-8d5b-f3dd4c14d783.png" width="300"/>
 
+
+𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝔂: 𝓤𝓼𝓮𝓻 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮, 𝓹𝓻𝓸𝓽𝓸𝓽𝔂𝓹𝓮, 𝓹𝓻𝓸𝓶𝓸𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽.🔭🎮📱💻🔎📐
 
 
 ▌│█║▌║▌║ Support and promotion of an idea💡 or product. ║▌║▌║█│▌-🅧- ❻ ❶ ❻
