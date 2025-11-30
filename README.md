@@ -64,7 +64,7 @@ __                            __
 
 ⫷⫷⫷ I like to write ideas for scripts, sometimes they become tools that I upload here on GitHub. Feel free to check them out. ⫸⫸⫸ **↓↓**
 
-## ♥- I'm new to scripting. Check that everything is in order before you use it.
+## ♥ 𝙸'𝚖 𝚗𝚎𝚠 𝚝𝚘 𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚗𝚐. 𝙲𝚑𝚎𝚌𝚔 𝚝𝚑𝚊𝚝 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚒𝚗 𝚘𝚛𝚍𝚎𝚛 𝚋𝚎𝚏𝚘𝚛𝚎 𝚢𝚘𝚞 𝚞𝚜𝚎 𝚒𝚝.
 
 <img src="IMG_20251101_134409.png" width="400"/>
 
