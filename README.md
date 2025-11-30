@@ -11,7 +11,7 @@
 ✨ Expert B2B consultant for optimizing technological performance & app efficiency. 🚀 Provides comprehensive QA/QC services & sharp User Experience (UX) reviews for gaming & digital media products. 🎯 Transforms your development into a product with uncompromised, high-quality end-user experience.
 
 
-<img src="IMG_20251108_102829.png" width="400"/>
+<img src="IMG_20251108_102829.png" width="300"/>
 
   
 Development, ideas💡, consulting, review and providing professional opinions. -🅧- ❻ ❶ ❻ (Product, Review, 🅃🄾 🄰 🅆🄷🄾🄻🄴 🄽🄴🅆 🄻🄴🅅🄴🄻 )
@@ -20,13 +20,13 @@ __                            __
 PS5 - 🎮 - Game testing 💽 + 🔬, idea development-💻^∞^ᐃ , user experience review📊.
 
 
-<img src="IMG_20251108_102629.png" width="400"/>
+<img src="IMG_20251108_102629.png" width="300"/>
 
   
 Movies:🎬 Viewing experience😎 + review📊.
 
 
-<img src="IMG_20251108_102655.png" width="400"/>
+<img src="IMG_20251108_102655.png" width="300"/>
 
 
 Technology: User experience, prototype, promotion and development.🔭🎮📱💻🔎📐
