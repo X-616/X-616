@@ -57,7 +57,7 @@ __                              __
 
 The service is provided 'from the shadows' with complete anonymity. Every idea, development, and intellectual property belongs exclusively to the client. We are committed to total confidentiality, secured and signed in a strict Non-Disclosure Agreement (NDA).
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#)
+
 __                            __
 
 __                            __
