@@ -1,4 +1,4 @@
-## 𝔓𝔯𝔦𝔳𝔞𝔱𝔢 𝔊𝔢𝔫𝔢𝔯𝔞𝔩 ℭ𝔬𝔫𝔰𝔲𝔩𝔱𝔞𝔫𝔱 - 𝖃-616.👋
+## 𝔓𝔯𝔦𝔳𝔞𝔱𝔢 𝔊𝔢𝔫𝔢𝔯𝔞𝔩 ℭ𝔬𝔫𝔰𝔲𝔩𝔱𝔞𝔫𝔱 𝖃-616.👋
 🄿🄷🄴🄽🄾🄼🄴🄽🄾🄽
 ## <img src="cDZJ17fbzWVle68VCB.gif" width="50"/>
 
@@ -37,7 +37,7 @@ Technology: User experience, prototype, promotion and development.🔭🎮📱�
 ▌│█║▌║▌║ Support and promotion of an idea💡 or product. ║▌║▌║█│▌-🅧- ❻ ❶ ❻
 __                              __
 
-## 👻 FROM THE SHADOWS - Confidential Commitment 🔐
+## 👻FROM THE SHADOWS Confidential Commitment 🔐
 
 ***The service is provided 'from the shadows' with complete anonymity***
 
