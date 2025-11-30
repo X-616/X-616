@@ -32,7 +32,7 @@ Movies:🎬 Viewing experience😎 + review📊.
 Technology: User experience, prototype, promotion and development.🔭🎮📱💻🔎📐
 
 
-<img src="e8443c27-20cf-4eeb-8d5b-f3dd4c14d783.png" width="400"/>
+<img src="e8443c27-20cf-4eeb-8d5b-f3dd4c14d783.png" width="300"/>
 
 
 
