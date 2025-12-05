@@ -1,5 +1,8 @@
 ## 💎-𝔓𝔯𝔦𝔳𝔞𝔱𝔢 𝔊𝔢𝔫𝔢𝔯𝔞𝔩 ℭ𝔬𝔫𝔰𝔲𝔩𝔱𝔞𝔫𝔱 ^∞^ 𝖃-616.👋
 🄿🄷🄴🄽🄾🄼🄴🄽🄾🄽 ***⚚ ⚚ ⚚***
+<img src="https://avatars.githubusercontent.com/u/106586767?v=4" width="30"/>
+
+
 
 ## <img src="cDZJ17fbzWVle68VCB.gif" width="90"/>
 
