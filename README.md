@@ -71,7 +71,7 @@ __                            __
 
 <img src="IMG_20251101_134409.png" width="400"/>
 
-
+***Contact Me > Since GitHub doesn't have direct messaging, feel free to get in touch by opening a new Issue. I’m always open to collaborations, questions, or just a friendly hello!***
  
 
 ##  -->   --> 🔭 🎮 📱 💻 👩🏻‍💻 🔎 📐
