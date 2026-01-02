@@ -69,7 +69,10 @@ __                            __
 
 ## ✦✧✧Ⓑ-Beta and not Ⓓ-data.        ✖◕‿◕✖ 
 
-​© All rights reserved to the creator: X-616
+​© All rights reserved to the creator:
+ 
+🅧-❻❶❻
+
 
    
 
