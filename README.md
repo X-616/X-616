@@ -69,12 +69,8 @@ __                            __
 __                           __
 ## ✦✧✧Ⓑ-Beta and not Ⓓ-data.        ✖◕‿◕✖ 
              
-​© This saying was invented by X-616.:
+​© This saying was invented by 🅧-❻❶❻.
       
-🅧-❻❶❻
-
-
-   
 
 <img src="IMG_20251101_134409.png" width="400"/>
 
