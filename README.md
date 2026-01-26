@@ -75,7 +75,9 @@ __                           __
 
 ***Contact Me > Since GitHub doesn't have direct messaging, feel free to get in touch by opening a new Issue. I’m always open to collaborations, questions, or just a friendly hello!***
  
+
 P.S. I’ve uploaded two of my custom scripts for those interested:
+
 ​🖥️ X-1 Console (Bash): A professional Termux management dashboard for automating system tasks, monitoring resources in real-time, and managing packages via a sleek TUI.
 
 ​🛡️scripts Phishing Checker (Python): A security tool that extracts URLs from text and performs deep heuristic analysis and live SSL/HTTP checks to identify malicious links.
