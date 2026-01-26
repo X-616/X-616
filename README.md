@@ -23,7 +23,7 @@ __                            __
  
 <img src="IMG_20251108_102655.png" width="300"/>
 
-🎬Movies: The Viewing Experience 😎 | Reviews & Insights 📊
+🎬Movies: The Viewing Experience 😎 Reviews & Insights 📊
 __                            __
 
 <img src="e8443c27-20cf-4eeb-8d5b-f3dd4c14d783.png" width="300"/>
