@@ -29,7 +29,8 @@ __                            __
 <img src="e8443c27-20cf-4eeb-8d5b-f3dd4c14d783.png" width="300"/>
 
 
-𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝔂: 𝓤𝓼𝓮𝓻 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮, 𝓹𝓻𝓸𝓽𝓸𝓽𝔂𝓹𝓮, 𝓹𝓻𝓸𝓶𝓸𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽.🔭🎮📱💻👩🏻‍💻🔎📐
+​Technology | UX • Prototyping • Dev 💻
+Bringing ideas to life, from code to promotion. 🚀 🚀 🚀 🔭 🎮 📱 💻 👩🏻‍💻🔎📐
 
 
 ▌│█║▌║▌║ Support and promotion of an idea💡 or product. ║▌║▌║█│▌-🅧- ❻ ❶ ❻
