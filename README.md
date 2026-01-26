@@ -80,9 +80,9 @@ P.S. I’ve uploaded two of my custom scripts for those interested:
 
 ​🖥️ X-1 Console (Bash): A professional Termux management dashboard for automating system tasks, monitoring resources in real-time, and managing packages via a sleek TUI.
 
-​🛡️scripts Phishing Checker (Python): A security tool that extracts URLs from text and performs deep heuristic analysis and live SSL/HTTP checks to identify malicious links.
+↓​🛡️↑scripts Phishing Checker (Python): A security tool that extracts URLs from text and performs deep heuristic analysis and live SSL/HTTP checks to identify malicious links.
 
-📜 🛡️scripts customize the Termux app by changing its icon and name. The customized APK will function exactly like the original Termux.
+📱 👩🏻‍💻scripts customize the Termux app by changing its icon and name. The customized APK will function exactly like the original Termux.
 
 
 ​If there is enough interest, I will be posting them here soon!
