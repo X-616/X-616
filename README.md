@@ -79,7 +79,7 @@ __                           __
 ​I’m always active and will get back to you as soon as possible.
 ​Let’s bring your vision from the shadows into the light.
 
-I believe that partnerships and a high technology value are more important than any monetary reward. Open to collaboration and helping out with projects that matter.Let's focus on the creative.
- 🚀***
+I believe that partnerships and a high technology value are more important than any monetary reward. Open to collaboration and helping out with projects that matter.Let's focus on the creative.🚀***
+ 
 ##  -->   --> 🔭 🎮 📱 💻 👩🏻‍💻 🔎 📐
 
