@@ -94,6 +94,7 @@ __                           __
 
 
 
+
 ### **1. Sony PlayStation: From Revolution to Stagnation**
  * **The Golden Era:** **PS1, PS2, and PS3** represented peak innovation. Each generation delivered a massive leap in technology, gameplay mechanics, and creative risks that defined the industry.
  * **The PS5 Paradox:** Despite the hardware power, the console fails to introduce anything truly "new." It feels like a polished version of the past rather than a revolutionary step forward, lacking the soul of the earlier generations.
