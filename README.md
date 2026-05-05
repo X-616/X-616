@@ -86,7 +86,8 @@ __                           __
 
 
 
-## **𝗧𝗛𝗘 𝗗𝗘𝗖𝗟𝗜𝗡𝗘 𝗢𝗙 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡: 𝗧𝗘𝗖𝗛 & 𝗘𝗡𝗧𝗘𝗥𝗧𝗔𝗜𝗡𝗠𝗘𝗡𝗧 𝗦𝗨𝗠𝗠𝗔𝗥𝗬△▼△▼**
+<marquee behavior="alternate"><h2>**𝗧𝗛𝗘 𝗗𝗘𝗖𝗟𝗜𝗡𝗘 𝗢𝗙 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡: 𝗧𝗘𝗖𝗛 & 𝗘𝗡𝗧𝗘𝗥𝗧𝗔𝗜𝗡𝗠𝗘𝗡𝗧 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 △▼△▼**</h2></marquee>
+
 
 ### **1. Sony PlayStation: From Revolution to Stagnation**
  * **The Golden Era:** **PS1, PS2, and PS3** represented peak innovation. Each generation delivered a massive leap in technology, gameplay mechanics, and creative risks that defined the industry.
