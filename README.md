@@ -87,12 +87,13 @@ __                           __
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=35&pause=1000&color=00FF41&width=950&lines=%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%BE%20%F0%9D%97%97%F0%9D%97%98%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%98%20%F0%9D%97%A2%F0%9D%97%9B%20%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%A2%F0%9D%97%AA%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1%3A;%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%96%F0%9D%97%9B%20%26%20%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%20%F0%9D%97%A6%F0%9D%97%A4%F0%9D%97%A0%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%20%E2%96%B3%E2%96%BC%E2%96%B3%E2%96%BC" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=34&pause=1000&color=00FF41&width=950&lines=%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%BE%20%F0%9D%97%97%F0%9D%97%98%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%98%20%F0%9D%97%A2%F0%9D%97%9B%20%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%A2%F0%9D%97%AA%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1%3A;%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%96%F0%9D%97%9B%20%26%20%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%20%F0%9D%97%A6%F0%9D%97%A4%F0%9D%97%A0%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%20%E2%96%B3%E2%96%BC%E2%96%B3%E2%96%BC" />
 </p>
 
 ---
 
 ### **1. Sony PlayStation: From Revolution to Stagnation**
+
 
 * **The Golden Era:** **PS1, PS2, and PS3** represented peak innovation. Each generation delivered a massive leap in technology, gameplay mechanics, and creative risks that defined the industry.
 * **The PS5 Paradox:** Despite the hardware power, the console fails to introduce anything truly "new." It feels like a polished version of the past rather than a revolutionary step forward, lacking the soul of the earlier generations.
