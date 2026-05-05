@@ -86,7 +86,8 @@ __                           __
 
 
 
-<marquee behavior="alternate"><h2>**𝗧𝗛𝗘 𝗗𝗘𝗖𝗟𝗜𝗡𝗘 𝗢𝗙 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡: 𝗧𝗘𝗖𝗛 & 𝗘𝗡𝗧𝗘𝗥𝗧𝗔𝗜𝗡𝗠𝗘𝗡𝗧 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 △▼△▼**</h2></marquee>
+![Innovation Report](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&width=850&lines=%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%BE%20%F0%9D%97%97%F0%9D%97%98%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%98%20%F0%9D%97%A2%F0%9D%97%9B%20%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%A2%F0%9D%97%AA%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1%3A;%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%96%F0%9D%97%9B%20%26%20%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A1%20%F0%9D%97%A6%F0%9D%97%A4%F0%9D%97%A0%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%20%E2%96%B3%E2%96%BC%E2%96%B3%E2%96%BC)
+
 
 
 ### **1. Sony PlayStation: From Revolution to Stagnation**
