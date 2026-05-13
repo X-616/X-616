@@ -29,8 +29,9 @@ __                            __
 <img src="e8443c27-20cf-4eeb-8d5b-f3dd4c14d783.png" width="300"/>
 
 
-​Technology | UX • Prototyping • Dev 💻
-Bringing ideas to life, from code to promotion. 🚀 🚀 🚀 🔭 🎮 📱 💻 👩🏻‍💻🔎📐
+​Technology | UX • Prototyping • Strategy 💻
+
+***Bringing ideas to life, from code to promotion. 🚀 🚀 🚀 🔭 🎮 📱 💻 👩🏻‍💻🔎📐***
 
 
 ▌│█║▌║▌║ Support and promotion of an idea💡 or product. ║▌║▌║█│▌-🅧- ❻ ❶ ❻
