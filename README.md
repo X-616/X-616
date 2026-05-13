@@ -80,6 +80,9 @@ __                           __
 ​I’m always active and will get back to you as soon as possible.
 ​Let’s bring your vision from the shadows into the light.***
 
+𝔽𝕠𝕔𝕦𝕤: ℙ𝕣𝕠𝕕𝕦𝕔𝕥 𝔸𝕟𝕒𝕝𝕪𝕤𝕚𝕤 & 𝕊𝕥𝕣𝕒𝕥𝕖𝕘𝕪 | ℕ𝕠𝕥 𝕒 𝕤𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣.
+
+
 ***I believe that partnerships and a high technology value are more important than any monetary reward. Open to collaboration and helping out with projects that matter.Let's focus on the creative.🚀***
  
 ##  -->   --> 🔭 🎮 📱 💻 👩🏻‍💻 🔎 📐
