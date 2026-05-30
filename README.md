@@ -119,11 +119,6 @@ __                           __
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=A+Critical+Analysis+of+Corporate+Risk+Aversion;Why+Mainstream+Tech+and+Media+Lost+Its+Soul" alt="Typing Effect" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Market_Analysis-flash?style=flat-square&color=black" />
-  <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
-</p>
-
 ---
 
 🎮 **Phase 1: Sony PlayStation** – A shift from creative boldness and high-risk evolution during the Golden Era (PS1–PS3) to a highly polished and clinical, yet soulless experience on the PS5 that prioritizes "Safe Growth."
@@ -141,5 +136,6 @@ __                           __
 Looking at the bigger picture, my conclusion is that we are living in an era defined by **"The Illusion of Progress."** Mainstream giants have fallen victim to their own success—their core motive has shifted from conquest to defense. They are no longer trying to amaze us; they are just trying to protect the status quo and satisfy shareholders with a safe, predictable **5%** quarterly growth.
 
 But innovation isn't dead; it has simply moved elsewhere. While massive corporations suffocate their own products out of fear, the real action has shifted to smaller, agile companies on the fringes of the market: from the indie gaming industry to focused, sharp, and specialized AI applications. Today, the giant corporations provide only the boring infrastructure, while the creative spark has completely migrated to those who have nothing to lose.
+
 
 
