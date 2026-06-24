@@ -197,5 +197,6 @@ But innovation isn't dead; it has simply moved elsewhere. While massive corporat
 ---
 
 <p align="center">
-  <b>🔒 Classified • Need-to-Know Basis •                  X-616 🔒</b>
+  <b>🔒 Classified • Need-to-Know Basis • 
+ X-616 🔒</b>
 </p>
