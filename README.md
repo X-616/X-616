@@ -191,12 +191,12 @@ But innovation isn't dead; it has simply moved elsewhere. While massive corporat
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+ACCESSED&color=red&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=X-616&label=PROFILE+ACCESSED&color=red&style=for-the-badge" />
 </p>
 
 ---
 
 <p align="center">
-  <b>🔒 Classified •
- Need-to-Know Basis •  𝕏-616 🔒</b>
+  <b>🔒 Classified • 
+Need-to-Know Basis • 𝕏-616 🔒</b>
 </p>
