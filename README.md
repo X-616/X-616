@@ -191,8 +191,9 @@ But innovation isn't dead; it has simply moved elsewhere. While massive corporat
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=X-616&label=SYSTEM+ACCESS&color=00FF41&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=X-616&label=SYSTEM+ACCESS&color=00FF41&style=flat" />
 </p>
+
 
 
 
